@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# author：pfq time:2020/6/22
 
 
 finish = False      # 游戏是否结束
